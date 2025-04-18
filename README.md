@@ -256,6 +256,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
 Manuel Mosquera - [GitHub](https://github.com/mmanumos) / [Twitter](https://twitter.com/mmanumos)  
-Javier Andrés Garzón Patarroyo - [GitHub](https://github.com/javierandresgp) / [Twitter](https://twitter.com/javierandresgp0)
+[javi](https://github.com/javi0x00)
 
 Fourth part of Airbnb: 0x06. AirBnB clone - Web dynamic
