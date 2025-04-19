@@ -166,8 +166,6 @@ Public Domain. No copy write protection.
 --------
 # 0x06. AirBnB clone - Web dynamic
 :open_file_folder: Foundations - Higher-level programming ― AirBnB clone
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-:bust_in_silhouette: by Guillaume, CTO at Holberton school
 
 ###### For this project, students are expected to look at this concept:
 [AirBnB clone](https://intranet.hbtn.io/concepts/74)
@@ -256,6 +254,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
 Manuel Mosquera - [GitHub](https://github.com/mmanumos) / [Twitter](https://twitter.com/mmanumos)  
-[javi](https://github.com/javi0x00)
+[Javi](https://github.com/javi0b01)
 
 Fourth part of Airbnb: 0x06. AirBnB clone - Web dynamic
